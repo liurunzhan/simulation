@@ -1,0 +1,13 @@
+
+# C TOOLS
+CC = 
+CFLAGS = 
+CPPFLAGS = 
+
+AR = 
+ARFLAGS = 
+
+# Verilog/System Verilog TOOLS
+CV = 
+CVFLAGS = 
+CSVFLAGS = 
