@@ -1,0 +1,2 @@
+com_c:
+	$(CC) $(CFLAGS) $(CPPFLAGS)
